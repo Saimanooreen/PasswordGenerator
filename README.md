@@ -1,0 +1,1 @@
+This project, crafted with HTML, CSS, and JavaScript, serves as a password generator. Working on it has enhanced my understanding of JavaScript concepts. The tool allows you to create a password tailored to your preferences and provides feedback on its strength.
